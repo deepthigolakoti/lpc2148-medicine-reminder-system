@@ -6,7 +6,7 @@ The system allows users to set medicine timings and provides alerts using LCD me
 ---
 
 ## Block Diagram
-C:\Users\Admin\Downloads\blockdiagram.png
+![Block Diagram](blockdiagram.png)
 
 
 
