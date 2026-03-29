@@ -1,0 +1,12 @@
+.\main_med.o: main_med.c
+.\main_med.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+.\main_med.o: rtc_med.h
+.\main_med.o: types_med.h
+.\main_med.o: lcd_med.h
+.\main_med.o: lcd_defines_med.h
+.\main_med.o: kpm_med.h
+.\main_med.o: delay_med.h
+.\main_med.o: medicine_med.h
+.\main_med.o: config_med.h
+.\main_med.o: interrupt_med.h
+.\main_med.o: menu_med.h

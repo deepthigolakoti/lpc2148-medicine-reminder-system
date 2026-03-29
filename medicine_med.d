@@ -1,0 +1,10 @@
+.\medicine_med.o: medicine_med.c
+.\medicine_med.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+.\medicine_med.o: medicine_med.h
+.\medicine_med.o: lcd_med.h
+.\medicine_med.o: lcd_defines_med.h
+.\medicine_med.o: kpm_med.h
+.\medicine_med.o: delay_med.h
+.\medicine_med.o: config_med.h
+.\medicine_med.o: types_med.h
+.\medicine_med.o: rtc_med.h
