@@ -6,8 +6,9 @@ The system allows users to set medicine timings and provides alerts using LCD me
 ---
 
 ## Block Diagram
+C:\Users\Admin\Downloads\blockdiagram.png
 
-![Block Diagram](blockdiagram.png)
+
 
 ---
 
@@ -71,37 +72,33 @@ The system works based on real-time comparison between RTC time and stored medic
 
 ## RTC Time Display
 
-![RTC](simulation04.png)
+C:\Users\Admin\Downloads\simulatuon1.png
+
 
 ---
 
 ## Menu Display
 
-![Menu](simulation01.png)
+C:\Users\Admin\Downloads\simulation_menu.png
+
 
 ---
 
 ## Invalid Input
 
-![Invalid](simulation02.png)
-
----
-
-## Next Medicine
-
-![Next](simulation07.png)
+C:\Users\Admin\Downloads\simulation2 (2).png
 
 ---
 
 ## Medicine Alert
 
-![Alert](simulation05.png)
+C:\Users\Admin\Downloads\simulation_3.png
 
 ---
 
 ## Acknowledgement
 
-![Taken](simulation06.png)
+C:\Users\Admin\Downloads\simulation4 (2).png
 
 ---
 
@@ -292,6 +289,5 @@ The system works based on real-time comparison between RTC time and stored medic
 **Golakoti Deepthi**
 Embedded Systems Project
 LPC2148 Medicine Reminder System
-**Phani Doranala**
 Embedded Systems Project
 LPC2148 Medicine Reminder System
